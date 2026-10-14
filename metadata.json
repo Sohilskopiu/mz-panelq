@@ -1,0 +1,8 @@
+{
+  "name": "MagarZ Cloud",
+  "description": "Self-hosted control panel for Minecraft, web applications, Discord bots, and Lavalink services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
